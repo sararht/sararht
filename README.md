@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-Here, you'll find experimental stuff and learning experiences. Nothing too deep or professional, just a playground for ideas and technologies. 🛝
+Welcome to my GitHub!
 
-Feel free to explore, ask questions, and take anything you find useful!You can reach me through my LinkedIn page: [LinkedIn Badge]
+Feel free to explore, ask questions, and take anything you find useful! 
+
+You can reach me through my LinkedIn page: [www.linkedin.com/in/sararht]
 
 ### About Me 🔍
 
