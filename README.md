@@ -4,7 +4,7 @@ Welcome to my GitHub!
 
 Feel free to explore, ask questions, and take anything you find useful! 
 
-You can reach me through my LinkedIn page: [www.linkedin.com/in/sararht]
+You can reach me through my LinkedIn page: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sararht)
 
 ### About Me 🔍
 
