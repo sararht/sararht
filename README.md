@@ -13,6 +13,6 @@ I’m a Postdoctoral Researcher at the University of Oviedo. My research focuses
 
 I have some pages hosted on GitHub Pages. Check them out! 🚀
 
-  - Mi personal web 💻 - University project for 3D constellation visualization using three.js
-  - Breast Cancer DataViz 📊 - Interactive visualization of cell characteristics with D3.js
+  - [Mi personal web 💻](https://sararht.github.io/) - University project for 3D constellation visualization using three.js
+  - [Breast Cancer DataViz 📊](https://sararht.github.io/d3js_cancer_cell_visualization/) - Interactive visualization of cell characteristics with D3.js
 
